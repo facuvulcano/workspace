@@ -1,0 +1,37 @@
+CMakeFiles/custom_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_msgs/msg/delta_odom__type_support.cpp.o: \
+ /home/facuvulcano/workspace/build/custom_msgs/rosidl_typesupport_c/custom_msgs/msg/delta_odom__type_support.cpp \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/cstddef \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/x86_64-conda-linux-gnu/bits/c++config.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/x86_64-conda-linux-gnu/bits/os_defines.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/features.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/features-time64.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/timesize.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/long-double.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/x86_64-conda-linux-gnu/bits/cpu_defines.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stddef.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/version.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/include/rosidl_runtime_c/rosidl_runtime_c/message_type_support_struct.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/include/rosidl_runtime_c/rosidl_runtime_c/visibility_control.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/include/rosidl_typesupport_interface/rosidl_typesupport_interface/macros.h \
+ /home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_c/custom_msgs/msg/detail/delta_odom__struct.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdbool.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/stdint.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/stdint.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/libc-header-start.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/time64.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
+ /home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_c/custom_msgs/msg/detail/delta_odom__type_support.h \
+ /home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_c/custom_msgs/msg/rosidl_generator_c__visibility_control.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/include/rosidl_typesupport_c/rosidl_typesupport_c/identifier.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/include/rosidl_typesupport_c/rosidl_typesupport_c/visibility_control.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/include/rosidl_typesupport_c/rosidl_typesupport_c/message_type_support_dispatch.h \
+ /home/facuvulcano/miniconda3/envs/rosenv/include/rosidl_typesupport_c/rosidl_typesupport_c/type_support_map.h

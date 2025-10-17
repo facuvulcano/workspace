@@ -1,0 +1,380 @@
+[0.000000] (-) TimerEvent: {}
+[0.000131] (-) JobUnselected: {'identifier': 'custom_code'}
+[0.000389] (-) JobUnselected: {'identifier': 'custom_msgs'}
+[0.000413] (turtlebot3_custom_simulation) JobQueued: {'identifier': 'turtlebot3_custom_simulation', 'dependencies': OrderedDict()}
+[0.000433] (turtlebot3_custom_simulation) JobStarted: {'identifier': 'turtlebot3_custom_simulation'}
+[0.100086] (-) TimerEvent: {}
+[0.200489] (-) TimerEvent: {}
+[0.300806] (-) TimerEvent: {}
+[0.401088] (-) TimerEvent: {}
+[0.501480] (-) TimerEvent: {}
+[0.601761] (-) TimerEvent: {}
+[0.702078] (-) TimerEvent: {}
+[0.802443] (-) TimerEvent: {}
+[0.902812] (-) TimerEvent: {}
+[1.003120] (-) TimerEvent: {}
+[1.103351] (-) TimerEvent: {}
+[1.203545] (-) TimerEvent: {}
+[1.303797] (-) TimerEvent: {}
+[1.404280] (-) TimerEvent: {}
+[1.504444] (-) TimerEvent: {}
+[1.604614] (-) TimerEvent: {}
+[1.704769] (-) TimerEvent: {}
+[1.804967] (-) TimerEvent: {}
+[1.905177] (-) TimerEvent: {}
+[2.005395] (-) TimerEvent: {}
+[2.105563] (-) TimerEvent: {}
+[2.205761] (-) TimerEvent: {}
+[2.305959] (-) TimerEvent: {}
+[2.406126] (-) TimerEvent: {}
+[2.506304] (-) TimerEvent: {}
+[2.606456] (-) TimerEvent: {}
+[2.706589] (-) TimerEvent: {}
+[2.806759] (-) TimerEvent: {}
+[2.906892] (-) TimerEvent: {}
+[3.007041] (-) TimerEvent: {}
+[3.107288] (-) TimerEvent: {}
+[3.207522] (-) TimerEvent: {}
+[3.307702] (-) TimerEvent: {}
+[3.407885] (-) TimerEvent: {}
+[3.508180] (-) TimerEvent: {}
+[3.608366] (-) TimerEvent: {}
+[3.708549] (-) TimerEvent: {}
+[3.808871] (-) TimerEvent: {}
+[3.909206] (-) TimerEvent: {}
+[4.009455] (-) TimerEvent: {}
+[4.109629] (-) TimerEvent: {}
+[4.209795] (-) TimerEvent: {}
+[4.310175] (-) TimerEvent: {}
+[4.410910] (-) TimerEvent: {}
+[4.511202] (-) TimerEvent: {}
+[4.611549] (-) TimerEvent: {}
+[4.711787] (-) TimerEvent: {}
+[4.811999] (-) TimerEvent: {}
+[4.912311] (-) TimerEvent: {}
+[5.012639] (-) TimerEvent: {}
+[5.112796] (-) TimerEvent: {}
+[5.213077] (-) TimerEvent: {}
+[5.313372] (-) TimerEvent: {}
+[5.413765] (-) TimerEvent: {}
+[5.514149] (-) TimerEvent: {}
+[5.614355] (-) TimerEvent: {}
+[5.714556] (-) TimerEvent: {}
+[5.814849] (-) TimerEvent: {}
+[5.915109] (-) TimerEvent: {}
+[6.015266] (-) TimerEvent: {}
+[6.115400] (-) TimerEvent: {}
+[6.215561] (-) TimerEvent: {}
+[6.315714] (-) TimerEvent: {}
+[6.415858] (-) TimerEvent: {}
+[6.516024] (-) TimerEvent: {}
+[6.616198] (-) TimerEvent: {}
+[6.716361] (-) TimerEvent: {}
+[6.816545] (-) TimerEvent: {}
+[6.916750] (-) TimerEvent: {}
+[7.016948] (-) TimerEvent: {}
+[7.117308] (-) TimerEvent: {}
+[7.217530] (-) TimerEvent: {}
+[7.317793] (-) TimerEvent: {}
+[7.417981] (-) TimerEvent: {}
+[7.518244] (-) TimerEvent: {}
+[7.618653] (-) TimerEvent: {}
+[7.718801] (-) TimerEvent: {}
+[7.819069] (-) TimerEvent: {}
+[7.919228] (-) TimerEvent: {}
+[8.019368] (-) TimerEvent: {}
+[8.119680] (-) TimerEvent: {}
+[8.219892] (-) TimerEvent: {}
+[8.320086] (-) TimerEvent: {}
+[8.420260] (-) TimerEvent: {}
+[8.520494] (-) TimerEvent: {}
+[8.620704] (-) TimerEvent: {}
+[8.720857] (-) TimerEvent: {}
+[8.821054] (-) TimerEvent: {}
+[8.921249] (-) TimerEvent: {}
+[9.021460] (-) TimerEvent: {}
+[9.121752] (-) TimerEvent: {}
+[9.222099] (-) TimerEvent: {}
+[9.322512] (-) TimerEvent: {}
+[9.423262] (-) TimerEvent: {}
+[9.523523] (-) TimerEvent: {}
+[9.623708] (-) TimerEvent: {}
+[9.723932] (-) TimerEvent: {}
+[9.824091] (-) TimerEvent: {}
+[9.924402] (-) TimerEvent: {}
+[10.024659] (-) TimerEvent: {}
+[10.124836] (-) TimerEvent: {}
+[10.225113] (-) TimerEvent: {}
+[10.325272] (-) TimerEvent: {}
+[10.425489] (-) TimerEvent: {}
+[10.525681] (-) TimerEvent: {}
+[10.625833] (-) TimerEvent: {}
+[10.726011] (-) TimerEvent: {}
+[10.826189] (-) TimerEvent: {}
+[10.926334] (-) TimerEvent: {}
+[11.026526] (-) TimerEvent: {}
+[11.126674] (-) TimerEvent: {}
+[11.226865] (-) TimerEvent: {}
+[11.327007] (-) TimerEvent: {}
+[11.427178] (-) TimerEvent: {}
+[11.527413] (-) TimerEvent: {}
+[11.627618] (-) TimerEvent: {}
+[11.727824] (-) TimerEvent: {}
+[11.828040] (-) TimerEvent: {}
+[11.928340] (-) TimerEvent: {}
+[12.028643] (-) TimerEvent: {}
+[12.128955] (-) TimerEvent: {}
+[12.229288] (-) TimerEvent: {}
+[12.329442] (-) TimerEvent: {}
+[12.429612] (-) TimerEvent: {}
+[12.529952] (-) TimerEvent: {}
+[12.630109] (-) TimerEvent: {}
+[12.730243] (-) TimerEvent: {}
+[12.830368] (-) TimerEvent: {}
+[12.930576] (-) TimerEvent: {}
+[13.030805] (-) TimerEvent: {}
+[13.131000] (-) TimerEvent: {}
+[13.231214] (-) TimerEvent: {}
+[13.331447] (-) TimerEvent: {}
+[13.431582] (-) TimerEvent: {}
+[13.531765] (-) TimerEvent: {}
+[13.631916] (-) TimerEvent: {}
+[13.732093] (-) TimerEvent: {}
+[13.832275] (-) TimerEvent: {}
+[13.932468] (-) TimerEvent: {}
+[14.032605] (-) TimerEvent: {}
+[14.132752] (-) TimerEvent: {}
+[14.232947] (-) TimerEvent: {}
+[14.333269] (-) TimerEvent: {}
+[14.433475] (-) TimerEvent: {}
+[14.533695] (-) TimerEvent: {}
+[14.633872] (-) TimerEvent: {}
+[14.734102] (-) TimerEvent: {}
+[14.834329] (-) TimerEvent: {}
+[14.934821] (-) TimerEvent: {}
+[15.035208] (-) TimerEvent: {}
+[15.135405] (-) TimerEvent: {}
+[15.235603] (-) TimerEvent: {}
+[15.335744] (-) TimerEvent: {}
+[15.435882] (-) TimerEvent: {}
+[15.536209] (-) TimerEvent: {}
+[15.636460] (-) TimerEvent: {}
+[15.736611] (-) TimerEvent: {}
+[15.836746] (-) TimerEvent: {}
+[15.936877] (-) TimerEvent: {}
+[16.037044] (-) TimerEvent: {}
+[16.137244] (-) TimerEvent: {}
+[16.237512] (-) TimerEvent: {}
+[16.337808] (-) TimerEvent: {}
+[16.437940] (-) TimerEvent: {}
+[16.538128] (-) TimerEvent: {}
+[16.638386] (-) TimerEvent: {}
+[16.738613] (-) TimerEvent: {}
+[16.838912] (-) TimerEvent: {}
+[16.939140] (-) TimerEvent: {}
+[17.039443] (-) TimerEvent: {}
+[17.139745] (-) TimerEvent: {}
+[17.240057] (-) TimerEvent: {}
+[17.340368] (-) TimerEvent: {}
+[17.440659] (-) TimerEvent: {}
+[17.540944] (-) TimerEvent: {}
+[17.641240] (-) TimerEvent: {}
+[17.741615] (-) TimerEvent: {}
+[17.841908] (-) TimerEvent: {}
+[17.942219] (-) TimerEvent: {}
+[18.042557] (-) TimerEvent: {}
+[18.142911] (-) TimerEvent: {}
+[18.243237] (-) TimerEvent: {}
+[18.343577] (-) TimerEvent: {}
+[18.443879] (-) TimerEvent: {}
+[18.544177] (-) TimerEvent: {}
+[18.644479] (-) TimerEvent: {}
+[18.744821] (-) TimerEvent: {}
+[18.845128] (-) TimerEvent: {}
+[18.945483] (-) TimerEvent: {}
+[19.045756] (-) TimerEvent: {}
+[19.146043] (-) TimerEvent: {}
+[19.246330] (-) TimerEvent: {}
+[19.346640] (-) TimerEvent: {}
+[19.446936] (-) TimerEvent: {}
+[19.547224] (-) TimerEvent: {}
+[19.647556] (-) TimerEvent: {}
+[19.747841] (-) TimerEvent: {}
+[19.848166] (-) TimerEvent: {}
+[19.948501] (-) TimerEvent: {}
+[20.048833] (-) TimerEvent: {}
+[20.149156] (-) TimerEvent: {}
+[20.249501] (-) TimerEvent: {}
+[20.349814] (-) TimerEvent: {}
+[20.450133] (-) TimerEvent: {}
+[20.550503] (-) TimerEvent: {}
+[20.650701] (-) TimerEvent: {}
+[20.750892] (-) TimerEvent: {}
+[20.851035] (-) TimerEvent: {}
+[20.951247] (-) TimerEvent: {}
+[21.051459] (-) TimerEvent: {}
+[21.151664] (-) TimerEvent: {}
+[21.251903] (-) TimerEvent: {}
+[21.352223] (-) TimerEvent: {}
+[21.452528] (-) TimerEvent: {}
+[21.552851] (-) TimerEvent: {}
+[21.653104] (-) TimerEvent: {}
+[21.753420] (-) TimerEvent: {}
+[21.853643] (-) TimerEvent: {}
+[21.953960] (-) TimerEvent: {}
+[22.054269] (-) TimerEvent: {}
+[22.154511] (-) TimerEvent: {}
+[22.254708] (-) TimerEvent: {}
+[22.355022] (-) TimerEvent: {}
+[22.455378] (-) TimerEvent: {}
+[22.555656] (-) TimerEvent: {}
+[22.655894] (-) TimerEvent: {}
+[22.756241] (-) TimerEvent: {}
+[22.856512] (-) TimerEvent: {}
+[22.956734] (-) TimerEvent: {}
+[23.056978] (-) TimerEvent: {}
+[23.157297] (-) TimerEvent: {}
+[23.257581] (-) TimerEvent: {}
+[23.357800] (-) TimerEvent: {}
+[23.458033] (-) TimerEvent: {}
+[23.558200] (-) TimerEvent: {}
+[23.658402] (-) TimerEvent: {}
+[23.758560] (-) TimerEvent: {}
+[23.858740] (-) TimerEvent: {}
+[23.958881] (-) TimerEvent: {}
+[24.059051] (-) TimerEvent: {}
+[24.159263] (-) TimerEvent: {}
+[24.259424] (-) TimerEvent: {}
+[24.359570] (-) TimerEvent: {}
+[24.459747] (-) TimerEvent: {}
+[24.559952] (-) TimerEvent: {}
+[24.660238] (-) TimerEvent: {}
+[24.760541] (-) TimerEvent: {}
+[24.860718] (-) TimerEvent: {}
+[24.960979] (-) TimerEvent: {}
+[25.061337] (-) TimerEvent: {}
+[25.161581] (-) TimerEvent: {}
+[25.261903] (-) TimerEvent: {}
+[25.362194] (-) TimerEvent: {}
+[25.462641] (-) TimerEvent: {}
+[25.562904] (-) TimerEvent: {}
+[25.663185] (-) TimerEvent: {}
+[25.763472] (-) TimerEvent: {}
+[25.863675] (-) TimerEvent: {}
+[25.963853] (-) TimerEvent: {}
+[26.064072] (-) TimerEvent: {}
+[26.164304] (-) TimerEvent: {}
+[26.264495] (-) TimerEvent: {}
+[26.364650] (-) TimerEvent: {}
+[26.464847] (-) TimerEvent: {}
+[26.564988] (-) TimerEvent: {}
+[26.665170] (-) TimerEvent: {}
+[26.765337] (-) TimerEvent: {}
+[26.865498] (-) TimerEvent: {}
+[26.965667] (-) TimerEvent: {}
+[27.065944] (-) TimerEvent: {}
+[27.166185] (-) TimerEvent: {}
+[27.266409] (-) TimerEvent: {}
+[27.366630] (-) TimerEvent: {}
+[27.466951] (-) TimerEvent: {}
+[27.567291] (-) TimerEvent: {}
+[27.667851] (-) TimerEvent: {}
+[27.768092] (-) TimerEvent: {}
+[27.868360] (-) TimerEvent: {}
+[27.968578] (-) TimerEvent: {}
+[28.068816] (-) TimerEvent: {}
+[28.168979] (-) TimerEvent: {}
+[28.269115] (-) TimerEvent: {}
+[28.369302] (-) TimerEvent: {}
+[28.469546] (-) TimerEvent: {}
+[28.569745] (-) TimerEvent: {}
+[28.670143] (-) TimerEvent: {}
+[28.770472] (-) TimerEvent: {}
+[28.870626] (-) TimerEvent: {}
+[28.970826] (-) TimerEvent: {}
+[29.071078] (-) TimerEvent: {}
+[29.171333] (-) TimerEvent: {}
+[29.271628] (-) TimerEvent: {}
+[29.371835] (-) TimerEvent: {}
+[29.472114] (-) TimerEvent: {}
+[29.572366] (-) TimerEvent: {}
+[29.672541] (-) TimerEvent: {}
+[29.772664] (-) TimerEvent: {}
+[29.872864] (-) TimerEvent: {}
+[29.973016] (-) TimerEvent: {}
+[30.031635] (turtlebot3_custom_simulation) JobProgress: {'identifier': 'turtlebot3_custom_simulation', 'progress': 'cmake'}
+[30.032065] (turtlebot3_custom_simulation) JobProgress: {'identifier': 'turtlebot3_custom_simulation', 'progress': 'build'}
+[30.032561] (turtlebot3_custom_simulation) Command: {'cmd': ['/home/facuvulcano/miniconda3/envs/rosenv/bin/cmake', '--build', '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation', '--', '-j32', '-l32'], 'cwd': '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/facuvulcano/workspace'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(rosenv)'), ('USER', 'facuvulcano'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/cursor/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('CXXFLAGS', '-fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('GCC_RANLIB', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ranlib'), ('XDG_SESSION_TYPE', 'x11'), ('OBJCOPY', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-objcopy'), ('DEBUG', 'WARN'), ('DEBUG_CXXFLAGS', '-fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('ROS_ETC_DIR', '/home/facuvulcano/miniconda3/envs/rosenv/etc/ros'), ('SIZE', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-size'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/gazebo-11/plugins:/home/facuvulcano/miniconda3/envs/rosenv/opt/rviz_ogre_vendor/lib'), ('HOME', '/home/facuvulcano'), ('CHROME_DESKTOP', 'cursor.desktop'), ('CC_FOR_BUILD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cc'), ('CONDA_SHLVL', '2'), ('DESKTOP_SESSION', 'ubuntu'), ('CONDA_TOOLCHAIN_BUILD', 'x86_64-conda-linux-gnu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-049c8a48-1.5.-main.sock'), ('F90', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('GAZEBO_MASTER_URI', 'http://localhost:11345'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LDFLAGS', '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/facuvulcano/miniconda3/envs/rosenv/lib -Wl,-rpath-link,/home/facuvulcano/miniconda3/envs/rosenv/lib -L/home/facuvulcano/miniconda3/envs/rosenv/lib'), ('FC', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('STRINGS', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-strings'), ('CPL_ZIP_ENCODING', 'UTF-8'), ('SYSTEMD_EXEC_PID', '3521'), ('GSM_SKIP_SSH_AGENT_WORKAROUND', 'true'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('CPP', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cpp'), ('_CONDA_ROOT', '/home/facuvulcano/miniconda3'), ('F77', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('F95', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-f95'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('DEBUGINFOD_URLS', 'https://debuginfod.ubuntu.com'), ('ELFEDIT', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-elfedit'), ('STRIP', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-strip'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'facuvulcano'), ('GCC', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc'), ('SDKMAN_CANDIDATES_API', 'https://api.sdkman.io/2'), ('_', '/home/facuvulcano/miniconda3/envs/rosenv/bin/colcon'), ('ROS_VERSION', '2'), ('MEMORY_PRESSURE_WATCH', '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.SettingsDaemon.MediaKeys.service/memory.pressure'), ('READELF', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-readelf'), ('XDG_SESSION_CLASS', 'user'), ('AR', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ar'), ('RUST_LOG', 'warn'), ('USERNAME', 'facuvulcano'), ('GXX', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-g++'), ('FC_FOR_BUILD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('TERM', 'xterm-256color'), ('AS', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-as'), ('GAZEBO_MODEL_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/share/gazebo-11/models:'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('CXXFILT', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++filt'), ('ROS_OS_OVERRIDE', 'conda:linux'), ('WINDOWPATH', '2'), ('BUILD', 'x86_64-conda-linux-gnu'), ('OGRE_RESOURCE_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/OGRE'), ('PATH', '/home/facuvulcano/.local/bin:/tmp/.tmpCqfWGr:/home/facuvulcano/miniconda3/envs/rosenv/share/rubygems/bin:/home/facuvulcano/.sdkman/candidates/java/current/bin:/home/facuvulcano/google-cloud-sdk/bin:/home/facuvulcano/miniconda3/envs/rosenv/bin:/home/facuvulcano/miniconda3/condabin:/home/facuvulcano/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/facuvulcano/.cursor/extensions/openai.chatgpt-0.4.19-universal/bin/linux-x86_64'), ('SESSION_MANAGER', 'local/sernit:@/tmp/.ICE-unix/3249,unix/sernit:/tmp/.ICE-unix/3249'), ('SDKMAN_CANDIDATES_DIR', '/home/facuvulcano/.sdkman/candidates'), ('PROJ_NETWORK', 'ON'), ('XDG_MENU_PREFIX', 'gnome-'), ('build_alias', 'x86_64-conda-linux-gnu'), ('VSCODE_PROCESS_TITLE', 'extension-host [1-1]'), ('SDKMAN_BROKER_API', 'https://broker.sdkman.io'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/b2f42b76_8680_4a18_8f93_73bdb50863bc'), ('PROJ_DATA', '/home/facuvulcano/miniconda3/envs/rosenv/share/proj'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('CFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('GCC_AR', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ar'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('DEBUG_CFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('CONDA_PREFIX_1', '/home/facuvulcano/miniconda3'), ('_CONDA_PYTHON_SYSCONFIGDATA_NAME', '_sysconfigdata_x86_64_conda_linux_gnu'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('MESON_ARGS', '-Dbuildtype=release'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:'), ('SBX_CHROME_API_RQ', '1'), ('GNOME_TERMINAL_SERVICE', ':1.117'), ('SDKMAN_DIR', '/home/facuvulcano/.sdkman'), ('SDKMAN_PLATFORM', 'linuxx64'), ('CURSOR_TRACE_ID', '7c60822834464ab4873103db1493804a'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('XML_CATALOG_FILES', 'file:///home/facuvulcano/miniconda3/envs/rosenv/etc/xml/catalog file:///etc/xml/catalog'), ('GSETTINGS_SCHEMA_DIR', '/home/facuvulcano/miniconda3/envs/rosenv/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/home/facuvulcano/miniconda3/envs/rosenv'), ('CPPFLAGS', '-DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('CONDA_PYTHON_EXE', '/home/facuvulcano/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('DEBUG_FFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fcheck=all -fbacktrace -fimplicit-none -fvar-tracking-assignments -ffunction-sections -pipe'), ('CMAKE_ARGS', '-DCMAKE_AR=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ar -DCMAKE_CXX_COMPILER_AR=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ar -DCMAKE_C_COMPILER_AR=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ar -DCMAKE_RANLIB=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ranlib -DCMAKE_CXX_COMPILER_RANLIB=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ranlib -DCMAKE_C_COMPILER_RANLIB=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ranlib -DCMAKE_LINKER=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ld -DCMAKE_STRIP=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-strip -DCMAKE_BUILD_TYPE=Release'), ('HOST', 'x86_64-conda-linux-gnu'), ('GDAL_DRIVER_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/gdalplugins'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('CXX', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++'), ('DEBUG_CPPFLAGS', '-D_DEBUG -D_FORTIFY_SOURCE=2 -Og -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('GDMSESSION', 'ubuntu'), ('GEM_HOME', '/home/facuvulcano/miniconda3/envs/rosenv/share/rubygems/'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('DEBUG_FORTRANFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fcheck=all -fbacktrace -fimplicit-none -fvar-tracking-assignments -ffunction-sections -pipe'), ('CONDA_DEFAULT_ENV', 'rosenv'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GAZEBO_RESOURCE_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/share/gazebo-11:'), ('_CONDA_EXE', '/home/facuvulcano/miniconda3/bin/conda'), ('ADDR2LINE', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-addr2line'), ('GCC_NM', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-nm'), ('GFORTRAN', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('CONDA_BUILD_SYSROOT', '/home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot'), ('GAZEBO_MODEL_DATABASE_URI', 'http://models.gazebosim.org'), ('QT_IM_MODULE', 'ibus'), ('JAVA_HOME', '/home/facuvulcano/.sdkman/candidates/java/current'), ('PWD', '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation'), ('VSCODE_CLI', '1'), ('TURTLEBOT3_MODEL', 'burguer'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/facuvulcano/miniconda3/bin/conda'), ('FFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include'), ('VSCODE_CODE_CACHE_PATH', '/home/facuvulcano/.config/Cursor/CachedData/2f2737de9aa376933d975ae30290447c910fdf40'), ('GAZEBO_PLUGIN_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/gazebo-11/plugins:'), ('LD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ld'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/python311/site-packages:/home/facuvulcano/miniconda3/envs/rosenv/lib/python3.11/site-packages'), ('GPROF', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gprof'), ('CONDA_PREFIX', '/home/facuvulcano/miniconda3/envs/rosenv'), ('CONDA_TOOLCHAIN_HOST', 'x86_64-conda-linux-gnu'), ('host_alias', 'x86_64-conda-linux-gnu'), ('FORTRANFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include'), ('CC', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cc'), ('RANLIB', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ranlib'), ('COLCON', '1'), ('MEMORY_PRESSURE_WRITE', 'c29tZSAyMDAwMDAgMjAwMDAwMAA='), ('VTE_VERSION', '7600'), ('CXX_FOR_BUILD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++'), ('SANDBOX_LD_LIBRARY_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/opt/rviz_ogre_vendor/lib::/home/facuvulcano/miniconda3/envs/rosenv/lib/gazebo-11/plugins:'), ('ELECTRON_NO_ATTACH_CONSOLE', '1'), ('CMAKE_PREFIX_PATH', '/home/facuvulcano/miniconda3/envs/rosenv:/home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr'), ('VSCODE_PID', '18053'), ('NM', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-nm'), ('OBJDUMP', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-objdump'), ('GDAL_DATA', '/home/facuvulcano/miniconda3/envs/rosenv/share/gdal')]), 'shell': False}
+[30.058218] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.7 (/home/facuvulcano/miniconda3/envs/rosenv/share/ament_cmake/cmake)\n'}
+[30.073158] (-) TimerEvent: {}
+[30.157100] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found geometry_msgs: 4.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/geometry_msgs/cmake)\n'}
+[30.170949] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_c/cmake)\n'}
+[30.172351] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_adapter/cmake)\n'}
+[30.173244] (-) TimerEvent: {}
+[30.176031] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_cpp/cmake)\n'}
+[30.183123] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[30.193535] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[30.266537] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found nav_msgs: 4.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/nav_msgs/cmake)\n'}
+[30.273442] (-) TimerEvent: {}
+[30.316633] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found rclcpp: 16.0.8 (/home/facuvulcano/miniconda3/envs/rosenv/share/rclcpp/cmake)\n'}
+[30.373700] (-) TimerEvent: {}
+[30.383680] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.1 (/home/facuvulcano/miniconda3/envs/rosenv/share/rmw_implementation_cmake/cmake)\n'}
+[30.384363] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.6 (/home/facuvulcano/miniconda3/envs/rosenv/share/rmw_fastrtps_cpp/cmake)\n'}
+[30.473764] (-) TimerEvent: {}
+[30.511794] (turtlebot3_custom_simulation) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[30.573944] (-) TimerEvent: {}
+[30.608763] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found sensor_msgs: 4.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/sensor_msgs/cmake)\n'}
+[30.674042] (-) TimerEvent: {}
+[30.675206] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found tf2: 0.25.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/tf2/cmake)\n'}
+[30.681479] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found tf2_msgs: 0.25.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/tf2_msgs/cmake)\n'}
+[30.774129] (-) TimerEvent: {}
+[30.797022] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Found turtlebot3_msgs: 2.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/turtlebot3_msgs/cmake)\n'}
+[30.874246] (-) TimerEvent: {}
+[30.917417] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Configuring done (0.9s)\n'}
+[30.933520] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Generating done (0.0s)\n'}
+[30.934427] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Build files have been written to: /home/facuvulcano/workspace/build/turtlebot3_custom_simulation\n'}
+[30.964970] (turtlebot3_custom_simulation) StdoutLine: {'line': b'[100%] Built target turtlebot3_custom_simulation\n'}
+[30.970454] (turtlebot3_custom_simulation) CommandEnded: {'returncode': 0}
+[30.974331] (-) TimerEvent: {}
+[30.988408] (turtlebot3_custom_simulation) JobProgress: {'identifier': 'turtlebot3_custom_simulation', 'progress': 'install'}
+[30.992287] (turtlebot3_custom_simulation) Command: {'cmd': ['/home/facuvulcano/miniconda3/envs/rosenv/bin/cmake', '--install', '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation'], 'cwd': '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/facuvulcano/workspace'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(rosenv)'), ('USER', 'facuvulcano'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/cursor/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('CXXFLAGS', '-fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('GCC_RANLIB', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ranlib'), ('XDG_SESSION_TYPE', 'x11'), ('OBJCOPY', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-objcopy'), ('DEBUG', 'WARN'), ('DEBUG_CXXFLAGS', '-fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('ROS_ETC_DIR', '/home/facuvulcano/miniconda3/envs/rosenv/etc/ros'), ('SIZE', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-size'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/gazebo-11/plugins:/home/facuvulcano/miniconda3/envs/rosenv/opt/rviz_ogre_vendor/lib'), ('HOME', '/home/facuvulcano'), ('CHROME_DESKTOP', 'cursor.desktop'), ('CC_FOR_BUILD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cc'), ('CONDA_SHLVL', '2'), ('DESKTOP_SESSION', 'ubuntu'), ('CONDA_TOOLCHAIN_BUILD', 'x86_64-conda-linux-gnu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-049c8a48-1.5.-main.sock'), ('F90', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('GAZEBO_MASTER_URI', 'http://localhost:11345'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LDFLAGS', '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/facuvulcano/miniconda3/envs/rosenv/lib -Wl,-rpath-link,/home/facuvulcano/miniconda3/envs/rosenv/lib -L/home/facuvulcano/miniconda3/envs/rosenv/lib'), ('FC', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('STRINGS', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-strings'), ('CPL_ZIP_ENCODING', 'UTF-8'), ('SYSTEMD_EXEC_PID', '3521'), ('GSM_SKIP_SSH_AGENT_WORKAROUND', 'true'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('CPP', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cpp'), ('_CONDA_ROOT', '/home/facuvulcano/miniconda3'), ('F77', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('F95', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-f95'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('DEBUGINFOD_URLS', 'https://debuginfod.ubuntu.com'), ('ELFEDIT', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-elfedit'), ('STRIP', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-strip'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'facuvulcano'), ('GCC', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc'), ('SDKMAN_CANDIDATES_API', 'https://api.sdkman.io/2'), ('_', '/home/facuvulcano/miniconda3/envs/rosenv/bin/colcon'), ('ROS_VERSION', '2'), ('MEMORY_PRESSURE_WATCH', '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.SettingsDaemon.MediaKeys.service/memory.pressure'), ('READELF', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-readelf'), ('XDG_SESSION_CLASS', 'user'), ('AR', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ar'), ('RUST_LOG', 'warn'), ('USERNAME', 'facuvulcano'), ('GXX', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-g++'), ('FC_FOR_BUILD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('TERM', 'xterm-256color'), ('AS', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-as'), ('GAZEBO_MODEL_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/share/gazebo-11/models:'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('CXXFILT', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++filt'), ('ROS_OS_OVERRIDE', 'conda:linux'), ('WINDOWPATH', '2'), ('BUILD', 'x86_64-conda-linux-gnu'), ('OGRE_RESOURCE_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/OGRE'), ('PATH', '/home/facuvulcano/.local/bin:/tmp/.tmpCqfWGr:/home/facuvulcano/miniconda3/envs/rosenv/share/rubygems/bin:/home/facuvulcano/.sdkman/candidates/java/current/bin:/home/facuvulcano/google-cloud-sdk/bin:/home/facuvulcano/miniconda3/envs/rosenv/bin:/home/facuvulcano/miniconda3/condabin:/home/facuvulcano/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/facuvulcano/.cursor/extensions/openai.chatgpt-0.4.19-universal/bin/linux-x86_64'), ('SESSION_MANAGER', 'local/sernit:@/tmp/.ICE-unix/3249,unix/sernit:/tmp/.ICE-unix/3249'), ('SDKMAN_CANDIDATES_DIR', '/home/facuvulcano/.sdkman/candidates'), ('PROJ_NETWORK', 'ON'), ('XDG_MENU_PREFIX', 'gnome-'), ('build_alias', 'x86_64-conda-linux-gnu'), ('VSCODE_PROCESS_TITLE', 'extension-host [1-1]'), ('SDKMAN_BROKER_API', 'https://broker.sdkman.io'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/b2f42b76_8680_4a18_8f93_73bdb50863bc'), ('PROJ_DATA', '/home/facuvulcano/miniconda3/envs/rosenv/share/proj'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('CFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('GCC_AR', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ar'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('DEBUG_CFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('CONDA_PREFIX_1', '/home/facuvulcano/miniconda3'), ('_CONDA_PYTHON_SYSCONFIGDATA_NAME', '_sysconfigdata_x86_64_conda_linux_gnu'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('MESON_ARGS', '-Dbuildtype=release'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:'), ('SBX_CHROME_API_RQ', '1'), ('GNOME_TERMINAL_SERVICE', ':1.117'), ('SDKMAN_DIR', '/home/facuvulcano/.sdkman'), ('SDKMAN_PLATFORM', 'linuxx64'), ('CURSOR_TRACE_ID', '7c60822834464ab4873103db1493804a'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('XML_CATALOG_FILES', 'file:///home/facuvulcano/miniconda3/envs/rosenv/etc/xml/catalog file:///etc/xml/catalog'), ('GSETTINGS_SCHEMA_DIR', '/home/facuvulcano/miniconda3/envs/rosenv/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/home/facuvulcano/miniconda3/envs/rosenv'), ('CPPFLAGS', '-DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('CONDA_PYTHON_EXE', '/home/facuvulcano/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('DEBUG_FFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fcheck=all -fbacktrace -fimplicit-none -fvar-tracking-assignments -ffunction-sections -pipe'), ('CMAKE_ARGS', '-DCMAKE_AR=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ar -DCMAKE_CXX_COMPILER_AR=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ar -DCMAKE_C_COMPILER_AR=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ar -DCMAKE_RANLIB=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ranlib -DCMAKE_CXX_COMPILER_RANLIB=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ranlib -DCMAKE_C_COMPILER_RANLIB=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-ranlib -DCMAKE_LINKER=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ld -DCMAKE_STRIP=/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-strip -DCMAKE_BUILD_TYPE=Release'), ('HOST', 'x86_64-conda-linux-gnu'), ('GDAL_DRIVER_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/gdalplugins'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('CXX', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++'), ('DEBUG_CPPFLAGS', '-D_DEBUG -D_FORTIFY_SOURCE=2 -Og -isystem /home/facuvulcano/miniconda3/envs/rosenv/include'), ('GDMSESSION', 'ubuntu'), ('GEM_HOME', '/home/facuvulcano/miniconda3/envs/rosenv/share/rubygems/'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('DEBUG_FORTRANFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fcheck=all -fbacktrace -fimplicit-none -fvar-tracking-assignments -ffunction-sections -pipe'), ('CONDA_DEFAULT_ENV', 'rosenv'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GAZEBO_RESOURCE_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/share/gazebo-11:'), ('_CONDA_EXE', '/home/facuvulcano/miniconda3/bin/conda'), ('ADDR2LINE', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-addr2line'), ('GCC_NM', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gcc-nm'), ('GFORTRAN', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gfortran'), ('CONDA_BUILD_SYSROOT', '/home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot'), ('GAZEBO_MODEL_DATABASE_URI', 'http://models.gazebosim.org'), ('QT_IM_MODULE', 'ibus'), ('JAVA_HOME', '/home/facuvulcano/.sdkman/candidates/java/current'), ('PWD', '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation'), ('VSCODE_CLI', '1'), ('TURTLEBOT3_MODEL', 'burguer'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/facuvulcano/miniconda3/bin/conda'), ('FFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include'), ('VSCODE_CODE_CACHE_PATH', '/home/facuvulcano/.config/Cursor/CachedData/2f2737de9aa376933d975ae30290447c910fdf40'), ('GAZEBO_PLUGIN_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/gazebo-11/plugins:'), ('LD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ld'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/facuvulcano/miniconda3/envs/rosenv/lib/python311/site-packages:/home/facuvulcano/miniconda3/envs/rosenv/lib/python3.11/site-packages'), ('GPROF', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-gprof'), ('CONDA_PREFIX', '/home/facuvulcano/miniconda3/envs/rosenv'), ('CONDA_TOOLCHAIN_HOST', 'x86_64-conda-linux-gnu'), ('host_alias', 'x86_64-conda-linux-gnu'), ('FORTRANFLAGS', '-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/facuvulcano/miniconda3/envs/rosenv/include -I/home/facuvulcano/miniconda3/envs/rosenv/include'), ('CC', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cc'), ('RANLIB', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-ranlib'), ('COLCON', '1'), ('MEMORY_PRESSURE_WRITE', 'c29tZSAyMDAwMDAgMjAwMDAwMAA='), ('VTE_VERSION', '7600'), ('CXX_FOR_BUILD', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++'), ('SANDBOX_LD_LIBRARY_PATH', '/home/facuvulcano/miniconda3/envs/rosenv/opt/rviz_ogre_vendor/lib::/home/facuvulcano/miniconda3/envs/rosenv/lib/gazebo-11/plugins:'), ('ELECTRON_NO_ATTACH_CONSOLE', '1'), ('CMAKE_PREFIX_PATH', '/home/facuvulcano/miniconda3/envs/rosenv:/home/facuvulcano/miniconda3/envs/rosenv/x86_64-conda-linux-gnu/sysroot/usr'), ('VSCODE_PID', '18053'), ('NM', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-nm'), ('OBJDUMP', '/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-objdump'), ('GDAL_DATA', '/home/facuvulcano/miniconda3/envs/rosenv/share/gdal')]), 'shell': False}
+[30.996417] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[30.996546] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/lib/turtlebot3_custom_simulation/turtlebot3_custom_simulation\n'}
+[30.996995] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/launch\n'}
+[30.997047] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/launch/custom_room.launch.py\n'}
+[30.997071] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/launch/custom_simulation.launch.py\n'}
+[30.997135] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/param\n'}
+[30.997155] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/param/burger.yaml\n'}
+[30.997175] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds\n'}
+[30.997193] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/Walls\n'}
+[30.997211] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/Walls/model.config\n'}
+[30.997234] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/Walls/model.sdf\n'}
+[30.997253] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/map\n'}
+[30.997271] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/map/map.pgm\n'}
+[30.997289] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/map/map.yaml\n'}
+[30.997307] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/slippery.world\n'}
+[30.997335] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/worlds/room.world\n'}
+[30.997354] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/include/\n'}
+[30.997373] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/include//turtlebot3_custom_simulation\n'}
+[30.997390] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/include//turtlebot3_custom_simulation/turtlebot3_custom_simulation.hpp\n'}
+[30.997442] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/lib/turtlebot3_custom_simulation/spawn_turtlebot3.py\n'}
+[30.997461] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/ament_index/resource_index/package_run_dependencies/turtlebot3_custom_simulation\n'}
+[30.997478] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/ament_index/resource_index/parent_prefix_path/turtlebot3_custom_simulation\n'}
+[30.997493] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/environment/ament_prefix_path.sh\n'}
+[30.997510] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/environment/ament_prefix_path.dsv\n'}
+[30.997526] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/environment/path.sh\n'}
+[30.997545] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/environment/path.dsv\n'}
+[30.997562] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/local_setup.bash\n'}
+[30.997577] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/local_setup.sh\n'}
+[30.997593] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/local_setup.zsh\n'}
+[30.997608] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/local_setup.dsv\n'}
+[30.997623] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/package.dsv\n'}
+[30.997639] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/ament_index/resource_index/packages/turtlebot3_custom_simulation\n'}
+[30.997655] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/cmake/ament_cmake_export_include_directories-extras.cmake\n'}
+[30.997670] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/cmake/ament_cmake_export_dependencies-extras.cmake\n'}
+[30.997686] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/cmake/turtlebot3_custom_simulationConfig.cmake\n'}
+[30.997702] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Up-to-date: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/cmake/turtlebot3_custom_simulationConfig-version.cmake\n'}
+[30.997717] (turtlebot3_custom_simulation) StdoutLine: {'line': b'-- Installing: /home/facuvulcano/workspace/install/turtlebot3_custom_simulation/share/turtlebot3_custom_simulation/package.xml\n'}
+[30.998013] (turtlebot3_custom_simulation) CommandEnded: {'returncode': 0}
+[31.024035] (turtlebot3_custom_simulation) JobEnded: {'identifier': 'turtlebot3_custom_simulation', 'rc': 0}
+[31.024244] (-) EventReactorShutdown: {}

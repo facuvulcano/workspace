@@ -1,0 +1,47 @@
+[60.063s] Invoking command in '/home/facuvulcano/workspace/src/custom_code': AMENT_PREFIX_PATH=/home/facuvulcano/workspace/install/custom_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/facuvulcano/workspace/install/custom_msgs:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/facuvulcano/workspace/install/custom_msgs/lib PYTHONPATH=/home/facuvulcano/workspace/build/custom_code/prefix_override:/home/facuvulcano/miniconda3/envs/rosenv/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/facuvulcano/workspace/install/custom_code/lib/python3.11/site-packages:/home/facuvulcano/workspace/install/custom_msgs/lib/python3.11/site-packages:${PYTHONPATH} /home/facuvulcano/miniconda3/envs/rosenv/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_code build --build-base /home/facuvulcano/workspace/build/custom_code/build install --record /home/facuvulcano/workspace/build/custom_code/install.log --single-version-externally-managed install_data
+[60.196s] running egg_info
+[60.202s] writing ../../build/custom_code/custom_code.egg-info/PKG-INFO
+[60.202s] writing dependency_links to ../../build/custom_code/custom_code.egg-info/dependency_links.txt
+[60.203s] writing entry points to ../../build/custom_code/custom_code.egg-info/entry_points.txt
+[60.203s] writing requirements to ../../build/custom_code/custom_code.egg-info/requires.txt
+[60.203s] writing top-level names to ../../build/custom_code/custom_code.egg-info/top_level.txt
+[60.217s] reading manifest file '../../build/custom_code/custom_code.egg-info/SOURCES.txt'
+[60.218s] writing manifest file '../../build/custom_code/custom_code.egg-info/SOURCES.txt'
+[60.218s] running build
+[60.218s] running build_py
+[60.218s] copying custom_code/robot_functions.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.218s] copying custom_code/likelihood.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.218s] copying custom_code/my_ekf_prediction.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.219s] copying custom_code/my_odometry.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.219s] copying custom_code/my_ekf_correction.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.219s] copying custom_code/my_ekf.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.219s] copying custom_code/feature_finder.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.219s] copying custom_code/my_localization.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.219s] copying custom_code/features.py -> /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code
+[60.219s] running install
+[60.223s] running install_lib
+[60.230s] copying /home/facuvulcano/workspace/build/custom_code/build/lib/custom_code/feature_finder.py -> /home/facuvulcano/workspace/install/custom_code/lib/python3.11/site-packages/custom_code
+[60.230s] byte-compiling /home/facuvulcano/workspace/install/custom_code/lib/python3.11/site-packages/custom_code/feature_finder.py to feature_finder.cpython-311.pyc
+[60.232s] running install_data
+[60.232s] copying package.xml -> /home/facuvulcano/workspace/install/custom_code/share/custom_code
+[60.232s] copying launch/launch_my_odometry.launch.py -> /home/facuvulcano/workspace/install/custom_code/share/custom_code/launch
+[60.232s] copying launch/launch_my_ekf.launch.py -> /home/facuvulcano/workspace/install/custom_code/share/custom_code/launch
+[60.232s] copying launch/launch_my_particles.launch.py -> /home/facuvulcano/workspace/install/custom_code/share/custom_code/launch
+[60.232s] copying rviz/ekf.rviz -> /home/facuvulcano/workspace/install/custom_code/share/custom_code/rviz
+[60.232s] copying rviz/particulas.rviz -> /home/facuvulcano/workspace/install/custom_code/share/custom_code/rviz
+[60.232s] copying rviz/odometry.rviz -> /home/facuvulcano/workspace/install/custom_code/share/custom_code/rviz
+[60.232s] running install_egg_info
+[60.241s] removing '/home/facuvulcano/workspace/install/custom_code/lib/python3.11/site-packages/custom_code-0.0.0-py3.11.egg-info' (and everything under it)
+[60.241s] Copying ../../build/custom_code/custom_code.egg-info to /home/facuvulcano/workspace/install/custom_code/lib/python3.11/site-packages/custom_code-0.0.0-py3.11.egg-info
+[60.241s] running install_scripts
+[60.287s] Installing ekf script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.287s] Installing ekf_correction script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] Installing ekf_prediction script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] Installing feature_finder script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] Installing features script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] Installing likelihood script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] Installing localization script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] Installing my_odometry script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] Installing my_tf script to /home/facuvulcano/workspace/install/custom_code/lib/custom_code
+[60.288s] writing list of installed files to '/home/facuvulcano/workspace/build/custom_code/install.log'
+[90.093s] Invoked command in '/home/facuvulcano/workspace/src/custom_code' returned '0': AMENT_PREFIX_PATH=/home/facuvulcano/workspace/install/custom_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/facuvulcano/workspace/install/custom_msgs:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/facuvulcano/workspace/install/custom_msgs/lib PYTHONPATH=/home/facuvulcano/workspace/build/custom_code/prefix_override:/home/facuvulcano/miniconda3/envs/rosenv/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/facuvulcano/workspace/install/custom_code/lib/python3.11/site-packages:/home/facuvulcano/workspace/install/custom_msgs/lib/python3.11/site-packages:${PYTHONPATH} /home/facuvulcano/miniconda3/envs/rosenv/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_code build --build-base /home/facuvulcano/workspace/build/custom_code/build install --record /home/facuvulcano/workspace/build/custom_code/install.log --single-version-externally-managed install_data

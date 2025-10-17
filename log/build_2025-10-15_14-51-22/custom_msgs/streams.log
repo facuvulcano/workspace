@@ -1,0 +1,20 @@
+[0.007s] Invoking command in '/home/facuvulcano/workspace/build/custom_msgs': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake /home/facuvulcano/workspace/src/custom_msgs -DPython3_EXECUTABLE=/home/facuvulcano/miniconda3/envs/rosenv/bin/python3 -DPython3_ROOT_DIR=/home/facuvulcano/miniconda3/envs/rosenv -DPython3_FIND_VIRTUALENV=ONLY -DPython3_FIND_STRATEGY=LOCATION -DCMAKE_INSTALL_PREFIX=/home/facuvulcano/workspace/install/custom_msgs
+[0.021s] -- Configuring incomplete, errors occurred!
+[0.021s] [31mCMake Error at CMakeLists.txt:9 (find_package):
+[0.021s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.021s]   has asked CMake to find a package configuration file provided by
+[0.021s]   "ament_cmake", but CMake did not find one.
+[0.021s] 
+[0.021s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.021s]   any of the following names:
+[0.021s] 
+[0.021s]     ament_cmakeConfig.cmake
+[0.021s]     ament_cmake-config.cmake
+[0.021s] 
+[0.021s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.021s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.021s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.021s]   has been installed.
+[0.021s] 
+[0.021s] [0m
+[0.023s] Invoked command in '/home/facuvulcano/workspace/build/custom_msgs' returned '1': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake /home/facuvulcano/workspace/src/custom_msgs -DPython3_EXECUTABLE=/home/facuvulcano/miniconda3/envs/rosenv/bin/python3 -DPython3_ROOT_DIR=/home/facuvulcano/miniconda3/envs/rosenv -DPython3_FIND_VIRTUALENV=ONLY -DPython3_FIND_STRATEGY=LOCATION -DCMAKE_INSTALL_PREFIX=/home/facuvulcano/workspace/install/custom_msgs
