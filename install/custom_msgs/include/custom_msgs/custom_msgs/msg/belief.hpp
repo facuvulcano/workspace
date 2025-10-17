@@ -7,5 +7,6 @@
 #include "custom_msgs/msg/detail/belief__struct.hpp"
 #include "custom_msgs/msg/detail/belief__builder.hpp"
 #include "custom_msgs/msg/detail/belief__traits.hpp"
+#include "custom_msgs/msg/detail/belief__type_support.hpp"
 
 #endif  // CUSTOM_MSGS__MSG__BELIEF_HPP_

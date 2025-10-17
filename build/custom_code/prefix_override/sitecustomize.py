@@ -1,4 +1,4 @@
 import sys
-if sys.prefix == '/home/facuvulcano/miniconda3/envs/rosenv':
+if sys.prefix == '/usr':
     sys.real_prefix = sys.prefix
-    sys.prefix = sys.exec_prefix = '/home/facuvulcano/workspace/install/custom_code'
+    sys.prefix = sys.exec_prefix = '/home/alumno1/workspace/install/custom_code'

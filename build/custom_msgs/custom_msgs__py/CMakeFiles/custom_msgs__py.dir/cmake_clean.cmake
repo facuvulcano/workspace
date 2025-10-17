@@ -1,12 +1,12 @@
 file(REMOVE_RECURSE
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_c.c"
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_fastrtps_c.c"
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_introspection_c.c"
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/msg/__init__.py"
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/msg/_belief.py"
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/msg/_belief_s.c"
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/msg/_delta_odom.py"
-  "/home/facuvulcano/workspace/build/custom_msgs/rosidl_generator_py/custom_msgs/msg/_delta_odom_s.c"
+  "../rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_c.c"
+  "../rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_fastrtps_c.c"
+  "../rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_introspection_c.c"
+  "../rosidl_generator_py/custom_msgs/msg/__init__.py"
+  "../rosidl_generator_py/custom_msgs/msg/_belief.py"
+  "../rosidl_generator_py/custom_msgs/msg/_belief_s.c"
+  "../rosidl_generator_py/custom_msgs/msg/_delta_odom.py"
+  "../rosidl_generator_py/custom_msgs/msg/_delta_odom_s.c"
   "CMakeFiles/custom_msgs__py"
 )
 

@@ -5,9 +5,11 @@ file(REMOVE_RECURSE
   "rosidl_generator_cpp/custom_msgs/msg/detail/belief__builder.hpp"
   "rosidl_generator_cpp/custom_msgs/msg/detail/belief__struct.hpp"
   "rosidl_generator_cpp/custom_msgs/msg/detail/belief__traits.hpp"
+  "rosidl_generator_cpp/custom_msgs/msg/detail/belief__type_support.hpp"
   "rosidl_generator_cpp/custom_msgs/msg/detail/delta_odom__builder.hpp"
   "rosidl_generator_cpp/custom_msgs/msg/detail/delta_odom__struct.hpp"
   "rosidl_generator_cpp/custom_msgs/msg/detail/delta_odom__traits.hpp"
+  "rosidl_generator_cpp/custom_msgs/msg/detail/delta_odom__type_support.hpp"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -60,10 +60,6 @@ install(DIRECTORY include/
   DESTINATION include/
 )
 
-install(PROGRAMS scripts/spawn_turtlebot3.py
-  DESTINATION lib/${PROJECT_NAME}
-)
-
 
 ################################################################################
 # Macro for ament package

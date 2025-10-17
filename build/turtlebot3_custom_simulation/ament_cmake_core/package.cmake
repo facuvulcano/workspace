@@ -5,7 +5,7 @@ set(turtlebot3_custom_simulation_BUILD_DEPENDS "ament_cmake" "geometry_msgs" "na
 set(turtlebot3_custom_simulation_BUILDTOOL_DEPENDS )
 set(turtlebot3_custom_simulation_BUILD_EXPORT_DEPENDS "ament_cmake" "geometry_msgs" "nav_msgs" "rclcpp" "sensor_msgs" "tf2" "tf2_msgs" "turtlebot3_msgs")
 set(turtlebot3_custom_simulation_BUILDTOOL_EXPORT_DEPENDS )
-set(turtlebot3_custom_simulation_EXEC_DEPENDS "gazebo_msgs" "robot_state_publisher" "rclpy" "xacro" "ament_cmake" "geometry_msgs" "nav_msgs" "rclcpp" "sensor_msgs" "tf2" "tf2_msgs" "turtlebot3_msgs")
+set(turtlebot3_custom_simulation_EXEC_DEPENDS "robot_state_publisher" "ament_cmake" "geometry_msgs" "nav_msgs" "rclcpp" "sensor_msgs" "tf2" "tf2_msgs" "turtlebot3_msgs")
 set(turtlebot3_custom_simulation_TEST_DEPENDS )
 set(turtlebot3_custom_simulation_GROUP_DEPENDS )
 set(turtlebot3_custom_simulation_MEMBER_OF_GROUPS )

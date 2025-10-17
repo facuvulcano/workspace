@@ -1,5 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000058] (-) JobUnselected: {'identifier': 'custom_code'}
-[0.000085] (-) JobUnselected: {'identifier': 'custom_msgs'}
-[0.000103] (-) JobUnselected: {'identifier': 'turtlebot3_custom_simulation'}
-[0.000121] (-) EventReactorShutdown: {}

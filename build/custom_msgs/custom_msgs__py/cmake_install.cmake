@@ -1,8 +1,8 @@
-# Install script for directory: /home/facuvulcano/workspace/build/custom_msgs/custom_msgs__py
+# Install script for directory: /home/alumno1/workspace/build/custom_msgs/custom_msgs__py
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/facuvulcano/workspace/install/custom_msgs")
+  set(CMAKE_INSTALL_PREFIX "/home/alumno1/workspace/install/custom_msgs")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,6 +39,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-objdump")
+  set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
 

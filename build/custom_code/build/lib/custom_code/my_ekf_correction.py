@@ -99,8 +99,8 @@ class EKFCorrectionNode(Node):
             try:
                 S_inv = np.linalg.inv(S)
             except np.linalg.LinAlgError:
-                self.get_logger().warn(
-                    "Innovation covariance is singular for landmark %d; skipping", idx
+                self.get_logger().warning(
+                    f"Innovation covariance is singular for landmark {idx}; skipping"
                 )
                 continue
 
@@ -122,12 +122,9 @@ class EKFCorrectionNode(Node):
         self._mu = mu
         self._covariance = covariance
 
+        detP = float(np.linalg.det(covariance))
         self.get_logger().info(
-            "EKF correction applied; det(P)=%.3e, mu=(%.3f, %.3f, %.3f)",
-            np.linalg.det(covariance),
-            mu[0],
-            mu[1],
-            mu[2],
+            f"EKF correction applied; det(P)={detP:.3e}, mu=({float(mu[0]):.3f}, {float(mu[1]):.3f}, {float(mu[2]):.3f})"
         )
 
         belief_msg = Belief()

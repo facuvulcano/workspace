@@ -1,1 +1,0 @@
-Invoking command in '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake --build /home/facuvulcano/workspace/build/turtlebot3_custom_simulation -- -j32 -l32

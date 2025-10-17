@@ -7,5 +7,6 @@
 #include "custom_msgs/msg/detail/delta_odom__struct.hpp"
 #include "custom_msgs/msg/detail/delta_odom__builder.hpp"
 #include "custom_msgs/msg/detail/delta_odom__traits.hpp"
+#include "custom_msgs/msg/detail/delta_odom__type_support.hpp"
 
 #endif  // CUSTOM_MSGS__MSG__DELTA_ODOM_HPP_
