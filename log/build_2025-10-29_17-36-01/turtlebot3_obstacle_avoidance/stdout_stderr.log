@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/top_level.txt
+reading manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtlebot3_obstacle_avoidance/obstacle_avoidance_node.py -> /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+copying turtlebot3_obstacle_avoidance/__init__.py -> /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+running install
+running install_lib
+copying /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance/obstacle_avoidance_node.py -> /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages/turtlebot3_obstacle_avoidance
+byte-compiling /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages/turtlebot3_obstacle_avoidance/obstacle_avoidance_node.py to obstacle_avoidance_node.cpython-311.pyc
+running install_data
+copying resource/turtlebot3_obstacle_avoidance -> /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index/packages
+copying package.xml -> /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance
+copying launch/avoid_obstacle.launch.py -> /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance/launch
+running install_egg_info
+removing '/home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages/turtlebot3_obstacle_avoidance-0.1.0-py3.11.egg-info' (and everything under it)
+Copying ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info to /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages/turtlebot3_obstacle_avoidance-0.1.0-py3.11.egg-info
+running install_scripts
+Installing obstacle_avoidance script to /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/turtlebot3_obstacle_avoidance
+writing list of installed files to '/home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/install.log'

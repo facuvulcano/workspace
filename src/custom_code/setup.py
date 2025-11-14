@@ -36,6 +36,7 @@ setup(
             "ekf = custom_code.my_ekf:main",
             "features = custom_code.features:main",
             "feature_finder = custom_code.feature_finder:main",
+            "fastslam = custom_code.my_fastslam:main",
         ],
     },
 )

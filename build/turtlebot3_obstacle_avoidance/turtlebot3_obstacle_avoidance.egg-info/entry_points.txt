@@ -1,0 +1,2 @@
+[console_scripts]
+obstacle_avoidance = turtlebot3_obstacle_avoidance.obstacle_avoidance_node:main

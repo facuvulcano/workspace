@@ -1,0 +1,38 @@
+[0.010s] Invoking command in '/home/facuvulcano/workspace/build/custom_msgs': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake /home/facuvulcano/workspace/src/custom_msgs -DCMAKE_INSTALL_PREFIX=/home/facuvulcano/workspace/install/custom_msgs
+[0.118s] -- The C compiler identification is GNU 14.3.0
+[0.233s] -- The CXX compiler identification is GNU 14.3.0
+[0.248s] -- Detecting C compiler ABI info
+[0.305s] -- Detecting C compiler ABI info - done
+[0.311s] -- Check for working C compiler: /home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cc - skipped
+[0.311s] -- Detecting C compile features
+[0.312s] -- Detecting C compile features - done
+[0.319s] -- Detecting CXX compiler ABI info
+[0.389s] -- Detecting CXX compiler ABI info - done
+[0.397s] -- Check for working CXX compiler: /home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++ - skipped
+[0.397s] -- Detecting CXX compile features
+[0.397s] -- Detecting CXX compile features - done
+[0.407s] -- Found ament_cmake: 1.3.7 (/home/facuvulcano/miniconda3/envs/rosenv/share/ament_cmake/cmake)
+[0.808s] -- Found Python3: /usr/bin/python3.12 (found version "3.12.3") found components: Interpreter 
+[0.910s] -- Found geometry_msgs: 4.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/geometry_msgs/cmake)
+[0.955s] -- Found rosidl_generator_c: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_c/cmake)
+[0.962s] -- Found rosidl_adapter: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_adapter/cmake)
+[0.973s] -- Found rosidl_generator_cpp: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_cpp/cmake)
+[0.989s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.011s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.102s] -- Found rosidl_default_generators: 1.2.0 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_default_generators/cmake)
+[1.250s] [31mCMake Error at /home/facuvulcano/miniconda3/envs/rosenv/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+[1.250s]   Could NOT find Python3 (missing: Python3_NumPy_INCLUDE_DIRS NumPy) (found
+[1.250s]   version "3.12.3")
+[1.250s] Call Stack (most recent call first):
+[1.250s]   /home/facuvulcano/miniconda3/envs/rosenv/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:600 (_FPHSA_FAILURE_MESSAGE)
+[1.250s]   /home/facuvulcano/miniconda3/envs/rosenv/share/cmake-3.28/Modules/FindPython/Support.cmake:3867 (find_package_handle_standard_args)
+[1.250s]   /home/facuvulcano/miniconda3/envs/rosenv/share/cmake-3.28/Modules/FindPython3.cmake:545 (include)
+[1.250s]   /home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_py/cmake/rosidl_generator_py-extras.cmake:2 (find_package)
+[1.250s]   /home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_py/cmake/rosidl_generator_pyConfig.cmake:41 (include)
+[1.250s]   /home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_default_generators/cmake/rosidl_default_generators-extras.cmake:21 (find_package)
+[1.250s]   /home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_default_generators/cmake/rosidl_default_generatorsConfig.cmake:41 (include)
+[1.250s]   CMakeLists.txt:13 (find_package)
+[1.250s] 
+[1.250s] [0m
+[1.250s] -- Configuring incomplete, errors occurred!
+[1.254s] Invoked command in '/home/facuvulcano/workspace/build/custom_msgs' returned '1': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake /home/facuvulcano/workspace/src/custom_msgs -DCMAKE_INSTALL_PREFIX=/home/facuvulcano/workspace/install/custom_msgs

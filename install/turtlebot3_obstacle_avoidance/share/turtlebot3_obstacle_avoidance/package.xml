@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtlebot3_obstacle_avoidance</name>
+  <version>0.1.0</version>
+  <description>Nodo de ejemplo que controla al Turtlebot3 para avanzar hasta detectar un obstáculo y luego rotar.</description>
+
+  <maintainer email="unknown@example.com">facuvulcano</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+
+  <exec_depend>python3</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

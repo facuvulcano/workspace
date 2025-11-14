@@ -1,7 +1,0 @@
-{
-  "package_name": "custom_msgs",
-  "non_idl_tuples": [
-    "/home/alumno1/workspace/src/custom_msgs:msg/DeltaOdom.msg",
-    "/home/alumno1/workspace/src/custom_msgs:msg/Belief.msg"
-  ]
-}

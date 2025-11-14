@@ -1,0 +1,40 @@
+[0.011s] Invoking command in '/home/facuvulcano/workspace/build/turtlebot3_custom_simulation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance:/home/facuvulcano/workspace/install/custom_code CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake /home/facuvulcano/workspace/src/turtlebot3_custom_simulation -DCMAKE_INSTALL_PREFIX=/home/facuvulcano/workspace/install/turtlebot3_custom_simulation
+[0.091s] -- The C compiler identification is GNU 14.3.0
+[0.182s] -- The CXX compiler identification is GNU 14.3.0
+[0.200s] -- Detecting C compiler ABI info
+[0.287s] -- Detecting C compiler ABI info - done
+[0.298s] -- Check for working C compiler: /home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-cc - skipped
+[0.298s] -- Detecting C compile features
+[0.298s] -- Detecting C compile features - done
+[0.309s] -- Detecting CXX compiler ABI info
+[0.412s] -- Detecting CXX compiler ABI info - done
+[0.428s] -- Check for working CXX compiler: /home/facuvulcano/miniconda3/envs/rosenv/bin/x86_64-conda-linux-gnu-c++ - skipped
+[0.429s] -- Detecting CXX compile features
+[0.429s] -- Detecting CXX compile features - done
+[0.434s] -- Found ament_cmake: 1.3.7 (/home/facuvulcano/miniconda3/envs/rosenv/share/ament_cmake/cmake)
+[1.462s] -- Found Python3: /usr/bin/python3.12 (found version "3.12.3") found components: Interpreter 
+[1.595s] -- Found geometry_msgs: 4.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/geometry_msgs/cmake)
+[1.674s] -- Found rosidl_generator_c: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_c/cmake)
+[1.682s] -- Found rosidl_adapter: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_adapter/cmake)
+[1.693s] -- Found rosidl_generator_cpp: 3.1.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/rosidl_generator_cpp/cmake)
+[1.710s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.734s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.855s] -- Found nav_msgs: 4.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/nav_msgs/cmake)
+[1.943s] -- Found rclcpp: 16.0.8 (/home/facuvulcano/miniconda3/envs/rosenv/share/rclcpp/cmake)
+[2.073s] -- Checking for module 'yaml-0.1'
+[2.177s] --   Found yaml-0.1, version 0.2.5
+[2.784s] -- Found rmw_implementation_cmake: 6.1.1 (/home/facuvulcano/miniconda3/envs/rosenv/share/rmw_implementation_cmake/cmake)
+[2.789s] -- Found rmw_fastrtps_cpp: 6.2.6 (/home/facuvulcano/miniconda3/envs/rosenv/share/rmw_fastrtps_cpp/cmake)
+[3.276s] -- Found OpenSSL: /home/facuvulcano/miniconda3/envs/rosenv/lib/libcrypto.so (found version "3.5.4")  
+[3.313s] -- Found FastRTPS: /home/facuvulcano/miniconda3/envs/rosenv/include  
+[3.377s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.398s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.480s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.481s] -- Found Threads: TRUE  
+[3.627s] -- Found sensor_msgs: 4.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/sensor_msgs/cmake)
+[3.714s] -- Found tf2: 0.25.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/tf2/cmake)
+[3.731s] -- Found tf2_msgs: 0.25.5 (/home/facuvulcano/miniconda3/envs/rosenv/share/tf2_msgs/cmake)
+[3.889s] -- Found turtlebot3_msgs: 2.2.3 (/home/facuvulcano/miniconda3/envs/rosenv/share/turtlebot3_msgs/cmake)
+[4.117s] -- Configuring done (4.1s)
+[4.129s] -- Generating done (0.0s)
+[4.131s] -- Build files have been written to: /home/facuvulcano/workspace/build/turtlebot3_custom_simulation

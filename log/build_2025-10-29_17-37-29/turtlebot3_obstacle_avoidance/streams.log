@@ -1,0 +1,29 @@
+[0.245s] Invoking command in '/home/facuvulcano/workspace/src/turtlebot3_obstacle_avoidance': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/home/facuvulcano/miniconda3/envs/rosenv/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages:${PYTHONPATH} /home/facuvulcano/miniconda3/envs/rosenv/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_obstacle_avoidance build --build-base /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build install --record /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/install.log --single-version-externally-managed install_data
+[0.345s] running egg_info
+[0.350s] creating ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info
+[0.350s] writing ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/PKG-INFO
+[0.350s] writing dependency_links to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/dependency_links.txt
+[0.350s] writing entry points to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/entry_points.txt
+[0.350s] writing requirements to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/requires.txt
+[0.350s] writing top-level names to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/top_level.txt
+[0.350s] writing manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.360s] reading manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.361s] writing manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.361s] running build
+[0.361s] running build_py
+[0.361s] creating /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+[0.361s] copying turtlebot3_obstacle_avoidance/obstacle_avoidance_node.py -> /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+[0.361s] copying turtlebot3_obstacle_avoidance/__init__.py -> /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+[0.361s] running install
+[0.364s] running install_lib
+[0.369s] running install_data
+[0.369s] copying resource/turtlebot3_obstacle_avoidance -> /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index/packages
+[0.369s] copying package.xml -> /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance
+[0.369s] copying launch/avoid_obstacle.launch.py -> /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance/launch
+[0.369s] running install_egg_info
+[0.374s] removing '/home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages/turtlebot3_obstacle_avoidance-0.1.0-py3.11.egg-info' (and everything under it)
+[0.374s] Copying ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info to /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages/turtlebot3_obstacle_avoidance-0.1.0-py3.11.egg-info
+[0.375s] running install_scripts
+[0.406s] Installing obstacle_avoidance script to /home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/turtlebot3_obstacle_avoidance
+[0.406s] writing list of installed files to '/home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/install.log'
+[0.420s] Invoked command in '/home/facuvulcano/workspace/src/turtlebot3_obstacle_avoidance' returned '0': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/home/facuvulcano/miniconda3/envs/rosenv/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/facuvulcano/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.11/site-packages:${PYTHONPATH} /home/facuvulcano/miniconda3/envs/rosenv/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_obstacle_avoidance build --build-base /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/build install --record /home/facuvulcano/workspace/build/turtlebot3_obstacle_avoidance/install.log --single-version-externally-managed install_data

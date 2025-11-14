@@ -1,0 +1,5 @@
+[0.015s] Invoking command in '/home/facuvulcano/workspace/build/custom_msgs': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake --build /home/facuvulcano/workspace/build/custom_msgs -- -j32 -l32
+[0.037s] [0mCMake Error: The current CMakeCache.txt directory /home/facuvulcano/workspace/build/custom_msgs/CMakeCache.txt is different than the directory /home/alumno1/workspace/build/custom_msgs where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.040s] gmake: /usr/bin/cmake: No such file or directory
+[0.040s] gmake: *** [Makefile:963: cmake_check_build_system] Error 127
+[0.102s] Invoked command in '/home/facuvulcano/workspace/build/custom_msgs' returned '2': CONDA_PROMPT_MODIFIER=(rosenv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/facuvulcano/miniconda3/envs/rosenv/bin/cmake --build /home/facuvulcano/workspace/build/custom_msgs -- -j32 -l32

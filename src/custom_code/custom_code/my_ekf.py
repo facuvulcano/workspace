@@ -13,7 +13,6 @@ import math
 from custom_msgs.msg import DeltaOdom, Belief
 
 def yaw_to_quaternion(yaw):
-    """Convert a yaw angle (in radians) into a Quaternion message."""
     q = Quaternion()
     q.w = math.cos(yaw * 0.5)
     q.x = 0.0
@@ -34,7 +33,7 @@ class EKFNode(Node):
             Odometry, "/odom", self.real_odom_callback, 10
         )
 
-        self.last_odom = (0,0,0)  # Store previous odometry state
+        self.last_odom = (0,0,0)
         self.read_odom = False
 
         self.real_path_pub = self.create_publisher(Path, "/real_robot_path", 10)
@@ -176,7 +175,6 @@ class EKFNode(Node):
             self.read_odom = True
 
     def create_pointcloud2(self, points):
-        """Create a PointCloud2 message from numpy array."""
         msg = PointCloud2()
         msg.header = Header()
         msg.header.stamp = self.get_clock().now().to_msg()
@@ -211,7 +209,7 @@ def main(args=None):
     try:
         rclpy.spin(node) 
     except KeyboardInterrupt:
-        print("\nShutting down...")
+        print("\nShutting down")
     finally:
         node.destroy_node()
         rclpy.shutdown()
