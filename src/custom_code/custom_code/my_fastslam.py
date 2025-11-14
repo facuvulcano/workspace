@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import math
 from dataclasses import dataclass, field
 from typing import Dict, List
@@ -15,7 +13,6 @@ from visualization_msgs.msg import Marker, MarkerArray
 from custom_msgs.msg import DeltaOdom
 
 
-# Patch for deprecated numpy aliases when running on newer versions
 if not hasattr(np, "float"):
     np.float = float
 
@@ -96,7 +93,6 @@ class FastSLAMNode(Node):
             f"FastSLAM initialized with {self.num_particles} particles."
         )
 
-    # ------------------------------------------------------------------ Callbacks
     def delta_callback(self, msg: DeltaOdom) -> None:
         self.predict_particles(msg)
         self.publish_best_estimate()
@@ -119,7 +115,6 @@ class FastSLAMNode(Node):
             self.resample_if_needed()
             self.publish_best_estimate()
 
-    # ------------------------------------------------------------------ FastSLAM core
     def predict_particles(self, delta: DeltaOdom) -> None:
         alpha1, alpha2, alpha3, alpha4 = self.motion_noise
 
@@ -213,7 +208,6 @@ class FastSLAMNode(Node):
             dtype=float,
         )
 
-    # ------------------------------------------------------------------ Weighting & resampling
     def gaussian_probability(self, innovation: np.ndarray, cov: np.ndarray, cov_inv: np.ndarray) -> float:
         det = max(float(np.linalg.det(cov)), 1e-12)
         norm = 1.0 / (2.0 * math.pi * math.sqrt(det))
@@ -242,7 +236,7 @@ class FastSLAMNode(Node):
 
         weights = np.array([p.weight for p in self.particles], dtype=float)
         cumulative = np.cumsum(weights)
-        cumulative[-1] = 1.0  # ensure last value is exactly 1
+        cumulative[-1] = 1.0 
 
         positions = (np.arange(self.num_particles) + np.random.uniform()) / self.num_particles
         indexes = np.searchsorted(cumulative, positions)
@@ -255,7 +249,6 @@ class FastSLAMNode(Node):
 
         self.particles = new_particles
 
-    # ------------------------------------------------------------------ Publishing helpers
     def publish_best_estimate(self) -> None:
         if not self.particles:
             return
@@ -297,7 +290,6 @@ class FastSLAMNode(Node):
 
     def publish_landmark_markers(self, best_particle: Particle, stamp) -> None:
         ma = MarkerArray()
-        # Clear previous markers
         delete_marker = Marker()
         delete_marker.header.frame_id = "map"
         delete_marker.header.stamp = stamp

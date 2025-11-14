@@ -1,0 +1,17 @@
+[0.336s] Invoking command in '/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance': PYTHONPATH=/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build --no-deps symlink_data
+[0.448s] running develop
+[0.515s] running egg_info
+[0.515s] writing turtlebot3_obstacle_avoidance.egg-info/PKG-INFO
+[0.515s] writing dependency_links to turtlebot3_obstacle_avoidance.egg-info/dependency_links.txt
+[0.515s] writing entry points to turtlebot3_obstacle_avoidance.egg-info/entry_points.txt
+[0.515s] writing requirements to turtlebot3_obstacle_avoidance.egg-info/requires.txt
+[0.515s] writing top-level names to turtlebot3_obstacle_avoidance.egg-info/top_level.txt
+[0.516s] reading manifest file 'turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.516s] writing manifest file 'turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.517s] running build_ext
+[0.517s] Creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3-obstacle-avoidance.egg-link (link to .)
+[0.517s] Installing obstacle_avoidance script to /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/turtlebot3_obstacle_avoidance
+[0.517s] 
+[0.517s] Installed /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance
+[0.517s] running symlink_data
+[0.529s] Invoked command in '/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance' returned '0': PYTHONPATH=/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build --no-deps symlink_data

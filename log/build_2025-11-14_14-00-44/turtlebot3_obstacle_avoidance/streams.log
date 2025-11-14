@@ -1,0 +1,26 @@
+[0.321s] Invoking command in '/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance': PYTHONPATH=/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build --no-deps symlink_data
+[0.431s] running develop
+[0.494s] running egg_info
+[0.494s] creating turtlebot3_obstacle_avoidance.egg-info
+[0.495s] writing turtlebot3_obstacle_avoidance.egg-info/PKG-INFO
+[0.495s] writing dependency_links to turtlebot3_obstacle_avoidance.egg-info/dependency_links.txt
+[0.495s] writing entry points to turtlebot3_obstacle_avoidance.egg-info/entry_points.txt
+[0.495s] writing requirements to turtlebot3_obstacle_avoidance.egg-info/requires.txt
+[0.495s] writing top-level names to turtlebot3_obstacle_avoidance.egg-info/top_level.txt
+[0.495s] writing manifest file 'turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.495s] reading manifest file 'turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.496s] writing manifest file 'turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.496s] running build_ext
+[0.496s] Creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3-obstacle-avoidance.egg-link (link to .)
+[0.497s] Installing obstacle_avoidance script to /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/turtlebot3_obstacle_avoidance
+[0.497s] 
+[0.497s] Installed /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance
+[0.497s] running symlink_data
+[0.497s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index
+[0.497s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index
+[0.497s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index/packages
+[0.497s] symbolically linking /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/resource/turtlebot3_obstacle_avoidance -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index/packages
+[0.497s] symbolically linking /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/package.xml -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance
+[0.497s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance/launch
+[0.497s] symbolically linking /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/launch/avoid_obstacle.launch.py -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance/launch
+[0.509s] Invoked command in '/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance' returned '0': PYTHONPATH=/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build --no-deps symlink_data

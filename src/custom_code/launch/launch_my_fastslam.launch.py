@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 
 from ament_index_python.packages import get_package_share_directory
@@ -31,6 +30,20 @@ def generate_launch_description():
         description="Lanzar RViz junto con el nodo FastSLAM",
     )
 
+    feature_extractor = Node(
+        package="custom_code",
+        executable="features",
+        name="feature_extractor",
+        output="screen",
+    )
+
+    landmark_observer = Node(
+        package="custom_code",
+        executable="feature_finder",
+        name="landmark_observer",
+        output="screen",
+    )
+
     fastslam_node = Node(
         package="custom_code",
         executable="fastslam",
@@ -56,6 +69,8 @@ def generate_launch_description():
     ld.add_action(num_particles_arg)
     ld.add_action(rviz_config_arg)
     ld.add_action(use_rviz_arg)
+    ld.add_action(feature_extractor)
+    ld.add_action(landmark_observer)
     ld.add_action(fastslam_node)
     ld.add_action(rviz_node)
     return ld

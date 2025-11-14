@@ -1,0 +1,39 @@
+[0.271s] Invoking command in '/home/alumno1/workspace/src/turtlebot3_obstacle_avoidance': PYTHONPATH=/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_obstacle_avoidance build --build-base /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build install --record /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/install.log --single-version-externally-managed install_data
+[0.374s] running egg_info
+[0.374s] creating ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info
+[0.374s] writing ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/PKG-INFO
+[0.374s] writing dependency_links to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/dependency_links.txt
+[0.374s] writing entry points to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/entry_points.txt
+[0.374s] writing requirements to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/requires.txt
+[0.375s] writing top-level names to ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/top_level.txt
+[0.375s] writing manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.375s] reading manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.375s] writing manifest file '../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info/SOURCES.txt'
+[0.375s] running build
+[0.375s] running build_py
+[0.375s] creating /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build
+[0.375s] creating /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build/lib
+[0.375s] creating /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+[0.376s] copying turtlebot3_obstacle_avoidance/__init__.py -> /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+[0.376s] copying turtlebot3_obstacle_avoidance/obstacle_avoidance_node.py -> /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance
+[0.376s] running install
+[0.376s] running install_lib
+[0.376s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3_obstacle_avoidance
+[0.376s] copying /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance/__init__.py -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3_obstacle_avoidance
+[0.376s] copying /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build/lib/turtlebot3_obstacle_avoidance/obstacle_avoidance_node.py -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3_obstacle_avoidance
+[0.376s] byte-compiling /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3_obstacle_avoidance/__init__.py to __init__.cpython-310.pyc
+[0.376s] byte-compiling /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3_obstacle_avoidance/obstacle_avoidance_node.py to obstacle_avoidance_node.cpython-310.pyc
+[0.377s] running install_data
+[0.377s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index
+[0.377s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index
+[0.377s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index/packages
+[0.377s] copying resource/turtlebot3_obstacle_avoidance -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/ament_index/resource_index/packages
+[0.377s] copying package.xml -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance
+[0.377s] creating /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance/launch
+[0.377s] copying launch/avoid_obstacle.launch.py -> /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/share/turtlebot3_obstacle_avoidance/launch
+[0.377s] running install_egg_info
+[0.378s] Copying ../../build/turtlebot3_obstacle_avoidance/turtlebot3_obstacle_avoidance.egg-info to /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages/turtlebot3_obstacle_avoidance-0.1.0-py3.10.egg-info
+[0.378s] running install_scripts
+[0.387s] Installing obstacle_avoidance script to /home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/turtlebot3_obstacle_avoidance
+[0.387s] writing list of installed files to '/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/install.log'
+[0.397s] Invoked command in '/home/alumno1/workspace/src/turtlebot3_obstacle_avoidance' returned '0': PYTHONPATH=/home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/workspace/install/turtlebot3_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_obstacle_avoidance build --build-base /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/build install --record /home/alumno1/workspace/build/turtlebot3_obstacle_avoidance/install.log --single-version-externally-managed install_data

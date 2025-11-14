@@ -1,0 +1,230 @@
+[0.010s] Invoking command in '/home/alumno1/workspace/build/custom_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alumno1/turtlebot3_ws/install/turtlebot3_teleop:/home/alumno1/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/alumno1/workspace/src/custom_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alumno1/workspace/install/custom_msgs
+[0.065s] -- The C compiler identification is GNU 11.4.0
+[0.112s] -- The CXX compiler identification is GNU 11.4.0
+[0.117s] -- Detecting C compiler ABI info
+[0.161s] -- Detecting C compiler ABI info - done
+[0.165s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.165s] -- Detecting C compile features
+[0.165s] -- Detecting C compile features - done
+[0.167s] -- Detecting CXX compiler ABI info
+[0.210s] -- Detecting CXX compiler ABI info - done
+[0.213s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.213s] -- Detecting CXX compile features
+[0.213s] -- Detecting CXX compile features - done
+[0.216s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.301s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.332s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.352s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.380s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.383s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.390s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.398s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.409s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.433s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.440s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.589s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.808s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.887s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.900s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[0.901s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.915s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[0.915s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.915s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.915s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.926s] -- Found PythonExtra: .so  
+[0.963s] -- Added test 'lint_cmake' to check CMake code style
+[0.964s] -- Added test 'xmllint' to check XML markup files
+[0.967s] -- Configuring done
+[0.980s] -- Generating done
+[0.985s] -- Build files have been written to: /home/alumno1/workspace/build/custom_msgs
+[0.989s] Invoked command in '/home/alumno1/workspace/build/custom_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alumno1/turtlebot3_ws/install/turtlebot3_teleop:/home/alumno1/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/alumno1/workspace/src/custom_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alumno1/workspace/install/custom_msgs
+[0.990s] Invoking command in '/home/alumno1/workspace/build/custom_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alumno1/turtlebot3_ws/install/turtlebot3_teleop:/home/alumno1/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/alumno1/workspace/build/custom_msgs -- -j28 -l28
+[1.017s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.023s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.028s] [  5%] Built target ament_cmake_python_symlink_custom_msgs
+[1.133s] running egg_info
+[1.133s] creating custom_msgs.egg-info
+[1.133s] writing custom_msgs.egg-info/PKG-INFO
+[1.134s] writing dependency_links to custom_msgs.egg-info/dependency_links.txt
+[1.134s] writing top-level names to custom_msgs.egg-info/top_level.txt
+[1.134s] writing manifest file 'custom_msgs.egg-info/SOURCES.txt'
+[1.135s] reading manifest file 'custom_msgs.egg-info/SOURCES.txt'
+[1.135s] writing manifest file 'custom_msgs.egg-info/SOURCES.txt'
+[1.148s] [  5%] Built target ament_cmake_python_build_custom_msgs_egg
+[1.158s] [  5%] Built target custom_msgs__cpp
+[1.159s] [  7%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_generator_c.dir/rosidl_generator_c/custom_msgs/msg/detail/delta_odom__functions.c.o[0m
+[1.159s] [ 10%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_generator_c.dir/rosidl_generator_c/custom_msgs/msg/detail/belief__functions.c.o[0m
+[1.164s] [ 15%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.164s] [ 15%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.165s] [ 17%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.185s] [ 20%] [32m[1mLinking C shared library libcustom_msgs__rosidl_generator_c.so[0m
+[1.207s] [ 20%] Built target custom_msgs__rosidl_generator_c
+[1.214s] [ 28%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.214s] [ 28%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.214s] [ 28%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.283s] [ 30%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_msgs/msg/delta_odom__type_support.cpp.o[0m
+[1.283s] [ 33%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_msgs/msg/belief__type_support.cpp.o[0m
+[1.289s] [ 35%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_msgs/msg/detail/delta_odom__type_support.cpp.o[0m
+[1.290s] [ 38%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_msgs/msg/detail/belief__type_support.cpp.o[0m
+[1.294s] [ 41%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_msgs/msg/detail/dds_fastrtps/delta_odom__type_support.cpp.o[0m
+[1.295s] [ 43%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_msgs/msg/detail/dds_fastrtps/belief__type_support.cpp.o[0m
+[1.332s] [ 48%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_msgs/msg/belief__type_support.cpp.o[0m
+[1.332s] [ 48%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_msgs/msg/delta_odom__type_support.cpp.o[0m
+[1.353s] [ 53%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_msgs/msg/detail/delta_odom__type_support_c.cpp.o[0m
+[1.353s] [ 53%] [32m[1mLinking CXX shared library libcustom_msgs__rosidl_typesupport_c.so[0m
+[1.354s] [ 56%] [32mBuilding CXX object CMakeFiles/custom_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_msgs/msg/detail/belief__type_support_c.cpp.o[0m
+[1.374s] [ 61%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_msgs/msg/detail/belief__type_support.c.o[0m
+[1.374s] [ 61%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_msgs/msg/detail/delta_odom__type_support.c.o[0m
+[1.380s] [ 61%] Built target custom_msgs__rosidl_typesupport_c
+[1.400s] [ 64%] [32m[1mLinking C shared library libcustom_msgs__rosidl_typesupport_introspection_c.so[0m
+[1.420s] [ 64%] Built target custom_msgs__rosidl_typesupport_introspection_c
+[1.439s] [ 66%] [32m[1mLinking CXX shared library libcustom_msgs__rosidl_typesupport_cpp.so[0m
+[1.462s] [ 66%] Built target custom_msgs__rosidl_typesupport_cpp
+[1.464s] [ 69%] [32m[1mLinking CXX shared library libcustom_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.494s] [ 74%] [32m[1mLinking CXX shared library libcustom_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[1.494s] [ 74%] [32m[1mLinking CXX shared library libcustom_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[1.503s] [ 74%] Built target custom_msgs__rosidl_typesupport_fastrtps_cpp
+[1.532s] [ 74%] Built target custom_msgs__rosidl_typesupport_introspection_cpp
+[1.533s] [ 74%] Built target custom_msgs__rosidl_typesupport_fastrtps_c
+[1.545s] [ 74%] Built target custom_msgs
+[1.555s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[1.731s] [ 76%] Built target custom_msgs__py
+[1.742s] [ 79%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_generator_py.dir/rosidl_generator_py/custom_msgs/msg/_belief_s.c.o[0m
+[1.742s] [ 82%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_generator_py.dir/rosidl_generator_py/custom_msgs/msg/_delta_odom_s.c.o[0m
+[1.802s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/custom_msgs/libcustom_msgs__rosidl_generator_py.so[0m
+[1.828s] [ 84%] Built target custom_msgs__rosidl_generator_py
+[1.838s] [ 89%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[1.838s] [ 89%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[1.839s] [ 92%] [32mBuilding C object CMakeFiles/custom_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[1.885s] [100%] [32m[1mLinking C shared library rosidl_generator_py/custom_msgs/custom_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.885s] [100%] [32m[1mLinking C shared library rosidl_generator_py/custom_msgs/custom_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.885s] [100%] [32m[1mLinking C shared library rosidl_generator_py/custom_msgs/custom_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.905s] [100%] Built target custom_msgs__rosidl_typesupport_c__pyext
+[1.905s] [100%] Built target custom_msgs__rosidl_typesupport_introspection_c__pyext
+[1.905s] [100%] Built target custom_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.912s] Invoked command in '/home/alumno1/workspace/build/custom_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alumno1/turtlebot3_ws/install/turtlebot3_teleop:/home/alumno1/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/alumno1/workspace/build/custom_msgs -- -j28 -l28
+[1.917s] Invoking command in '/home/alumno1/workspace/build/custom_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alumno1/turtlebot3_ws/install/turtlebot3_teleop:/home/alumno1/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/alumno1/workspace/build/custom_msgs
+[1.921s] -- Install configuration: ""
+[1.921s] -- Execute custom install script
+[1.921s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/ament_index/resource_index/rosidl_interfaces/custom_msgs
+[1.925s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/belief.h
+[1.930s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/delta_odom.h
+[1.934s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__functions.h
+[1.939s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__struct.h
+[1.942s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__type_support.h
+[1.946s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__functions.h
+[1.950s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__struct.h
+[1.954s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__type_support.h
+[1.958s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.963s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/library_path.sh
+[1.966s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/library_path.dsv
+[1.972s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__rosidl_typesupport_fastrtps_c.h
+[1.977s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__rosidl_typesupport_fastrtps_c.h
+[1.981s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.985s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/belief.hpp
+[1.988s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/delta_odom.hpp
+[1.992s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__builder.hpp
+[1.996s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__struct.hpp
+[2.001s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__traits.hpp
+[2.004s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__type_support.hpp
+[2.009s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__builder.hpp
+[2.012s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__struct.hpp
+[2.017s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__traits.hpp
+[2.021s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__type_support.hpp
+[2.025s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.029s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__rosidl_typesupport_fastrtps_cpp.hpp
+[2.034s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__rosidl_typesupport_fastrtps_cpp.hpp
+[2.037s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.043s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__rosidl_typesupport_introspection_c.h
+[2.048s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__rosidl_typesupport_introspection_c.h
+[2.051s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.056s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/belief__rosidl_typesupport_introspection_cpp.hpp
+[2.060s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/include/custom_msgs/custom_msgs/msg/detail/delta_odom__rosidl_typesupport_introspection_cpp.hpp
+[2.064s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/pythonpath.sh
+[2.068s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/pythonpath.dsv
+[2.073s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[2.078s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.082s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.085s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[2.090s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/__init__.py
+[2.094s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_c.c
+[2.098s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.102s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/_custom_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[2.106s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/custom_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.111s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/custom_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.114s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/custom_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.119s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/libcustom_msgs__rosidl_generator_py.so
+[2.123s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/__init__.py
+[2.127s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/_belief.py
+[2.133s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/_belief_s.c
+[2.137s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/_delta_odom.py
+[2.141s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/_delta_odom_s.c
+[2.146s] -- Up-to-date symlink: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/custom_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.146s] -- Up-to-date symlink: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/custom_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.146s] -- Up-to-date symlink: /home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/custom_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.146s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/msg/DeltaOdom.idl
+[2.151s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/msg/Belief.idl
+[2.155s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/msg/DeltaOdom.msg
+[2.160s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/msg/Belief.msg
+[2.164s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/ament_index/resource_index/package_run_dependencies/custom_msgs
+[2.169s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/ament_index/resource_index/parent_prefix_path/custom_msgs
+[2.173s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/ament_prefix_path.sh
+[2.178s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/ament_prefix_path.dsv
+[2.182s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/path.sh
+[2.187s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/environment/path.dsv
+[2.190s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/local_setup.bash
+[2.196s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/local_setup.sh
+[2.199s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/local_setup.zsh
+[2.204s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/local_setup.dsv
+[2.208s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/package.dsv
+[2.214s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/ament_index/resource_index/packages/custom_msgs
+[2.218s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/rosidl_cmake-extras.cmake
+[2.222s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.227s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.231s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[2.236s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[2.241s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.246s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.250s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgsConfig.cmake
+[2.254s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgsConfig-version.cmake
+[2.261s] -- Symlinking: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/package.xml
+[2.264s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_generator_c.so
+[2.264s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_generator_c.so" to ""
+[2.264s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_fastrtps_c.so
+[2.264s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[2.264s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_fastrtps_cpp.so
+[2.265s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[2.265s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_introspection_c.so
+[2.265s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_introspection_c.so" to ""
+[2.265s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_c.so
+[2.265s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_c.so" to ""
+[2.265s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_introspection_cpp.so
+[2.265s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[2.265s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_cpp.so
+[2.265s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_typesupport_cpp.so" to ""
+[2.285s] Listing '/home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs'...
+[2.285s] Compiling '/home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/__init__.py'...
+[2.285s] Listing '/home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg'...
+[2.285s] Compiling '/home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/__init__.py'...
+[2.285s] Compiling '/home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/_belief.py'...
+[2.285s] Compiling '/home/alumno1/workspace/install/custom_msgs/local/lib/python3.10/dist-packages/custom_msgs/msg/_delta_odom.py'...
+[2.287s] -- Installing: /home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_generator_py.so
+[2.287s] -- Set runtime path of "/home/alumno1/workspace/install/custom_msgs/lib/libcustom_msgs__rosidl_generator_py.so" to ""
+[2.287s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_generator_cExport.cmake
+[2.287s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_generator_cExport-noconfig.cmake
+[2.287s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[2.287s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_generator_cppExport.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_introspection_cExport.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_cExport.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_cppExport.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/custom_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_generator_pyExport.cmake
+[2.288s] -- Installing: /home/alumno1/workspace/install/custom_msgs/share/custom_msgs/cmake/export_custom_msgs__rosidl_generator_pyExport-noconfig.cmake
+[2.289s] Invoked command in '/home/alumno1/workspace/build/custom_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alumno1/turtlebot3_ws/install/turtlebot3_teleop:/home/alumno1/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/alumno1/workspace/build/custom_msgs

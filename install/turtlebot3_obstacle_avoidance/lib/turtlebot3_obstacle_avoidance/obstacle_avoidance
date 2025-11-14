@@ -1,4 +1,4 @@
-#!/home/facuvulcano/miniconda3/envs/rosenv/bin/python3.11
+#!/usr/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'turtlebot3-obstacle-avoidance==0.1.0','console_scripts','obstacle_avoidance'
 import re
 import sys
